@@ -1,0 +1,5 @@
+Instruction for Developers.
+
+1.  on Git Workflow
+2.  All features will be merged in this "remote/development" branch
+3.  Only bug-testing & Overall intergartion testing is done, then this "remote/development" branch will be merged to "remote/main"
